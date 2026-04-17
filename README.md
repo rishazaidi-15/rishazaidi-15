@@ -62,4 +62,4 @@ Performed data analysis using Python, Excel, and Power BI to generate actionable
 
 ## Contact 📫
 LinkedIn: https://www.linkedin.com/in/risha-zaidi-a7b644257
-LinkedIn: https://www.linkedin.com/in/risha-zaidi-a7b644257
+Email: rishazaidi01@gmail.com
